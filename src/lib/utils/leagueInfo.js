@@ -1,5 +1,5 @@
 /*   STEP 1   */
-export const leagueID = "https://sleeper.app/leagues/649911979372281856"; // your league ID
+export const leagueID = "649911979372281856"; // your league ID
 export const leagueName = "The League of Oofs"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
