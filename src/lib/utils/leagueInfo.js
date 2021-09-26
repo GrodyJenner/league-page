@@ -10,7 +10,7 @@ export const homepageText = `
   <p>Welcome to the League of Oofs. My home away from home. The place I find myself thinking about at all hours of the day; Driving, Showering, Eating, Sleeping... Oofs is on my mind through it all.</p>
   <p>I'm so proud for this upstart league to be going strong, with a group of people who scarcely knew each other four years ago now talking daily and becoming friends outside the realms of fantasy football.</p>
   <p>From the onset of the League of Oofs in 2018, I've wanted the place to foster a feeling of community and friendship more than a place to yell about fake football points, though we do more than our fair share of that too.</p>
-  <p>Thanks for making this a place that makes me <i>want</i> to make custom websites, magazines, and blog posts. Thank you for being a place to direct my focus over the years that have passed, and the ones that have yet to come. And more than anything, thanks for taking a chance on a fantasy format most of you had never tried before The LOO. It's been the most fun I've ever had, no matter how frustrating or down on my team I get.</p>
+  <p>Thanks for making this a place that makes me <i>want</i> to make custom websites, magazines, and blog posts. Thank you for being a place to direct my focus over the years that have passed, and the ones that have yet to come. And more than anything, thanks for taking a chance on a fantasy format most of you had never tried before The LOO. It's been the most fun I've ever had, no matter how annoyingly down on my team I get.</p>
   <p><c>-Commish</c>
 `;
 
