@@ -29,7 +29,7 @@ export const managers = [
       "name": "Dalton",
       "tookOver": 2018, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Ohio", // (optional)
-      "bio": "Started the <b>League of Oofs</b> in 2018 after abandoning a shark league where I was a fucking minnow. I was determined to introduce this new form of fantasy to my friends and create a group dedicated to having fun following fantasy together year round. I'm the two time, should be three time, champion. I'm pretty obsessed with this shit now, but have limited myself to four leagues for the sake of my sanity. For all intents and purposes though, The League of Oofs will always be my league of record and my hope is to keep this thing running until the sun swallows us whole.",
+      "bio": "Started the <b>League of Oofs!</b> in 2018 after abandoning a shark league where I was a fucking minnow. I was determined to introduce this new form of fantasy to my friends and create a group dedicated to having fun following fantasy together year round. I'm the two time, should be three time, champion. I'm pretty obsessed with this shit now, but have limited myself to four leagues for the sake of my sanity. For all intents and purposes though, The League of Oofs will always be my league of record and my hope is to keep this thing running until the sun swallows us whole.",
       "photo": "/managers/dalton.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "pit", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
