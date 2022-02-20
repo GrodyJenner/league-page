@@ -29,7 +29,7 @@ export const managers = [
       "name": "Dalton",
       "tookOver": 2018, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Ohio", // (optional)
-      "bio": "<center>Started the <b>League of Oofs</b> in 2018 after abandoning a shark league where I was a fucking minnow. I was determined to introduce this new form of fantasy to my friends and create a group dedicated to having fun following fantasy together year round. I'm the two time, should be three time, champion. I'm pretty obsessed with this shit now, but have limited myself to four leagues for the sake of my sanity. For all intents and purposes though, The League of Oofs will always be my league of record and my hope is to keep this thing running until the sun swallows us whole.</center>",
+      "bio": "Started the <b>League of Oofs</b> in 2018 after abandoning a shark league where I was a fucking minnow. I was determined to introduce this new form of fantasy to my friends and create a group dedicated to having fun following fantasy together year round. I'm the two time, should be three time, champion. I'm pretty obsessed with this shit now, but have limited myself to four leagues for the sake of my sanity. For all intents and purposes though, The League of Oofs will always be my league of record and my hope is to keep this thing running until the sun swallows us whole.",
       "photo": "/managers/dalton.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "pit", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -42,7 +42,7 @@ export const managers = [
       "favoritePlayer": 7596, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
       "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-      "philosophy": "<center>WRs > RBs // Winning > Age // Pepsi > Coke // AEW > WWE // A24 > Marvel</center>",
+      "philosophy": "WRs > RBs // Winning > Age // Pepsi > Coke // AEW > WWE // A24 > Marvel",
       "tradingScale": 9, // 1 - 10
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
